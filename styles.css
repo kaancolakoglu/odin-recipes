@@ -1,0 +1,36 @@
+/* Main Page */
+.main-page.title {
+    color: blue;
+    text-align: center;
+    font-family: "Academy Engraved LET",sans-serif;
+    font-size: xxx-large;
+
+}
+.main-page.element {
+    color: green;
+}
+
+/* Recipe Page*/
+.recipe-page-title {
+    background-color: red;
+    color: green;
+}
+
+.recipe-page-description, .recipe-page-ingredients, .recipe-page-steps{
+    color: lightblue;
+    background-color: yellow;
+}
+
+ul, ol{
+    background-color: black;
+    color: white;
+}
+
+body {
+    font-family: "Apple SD Gothic Neo", "Academy Engraved LET", fantasy;
+}
+
+.recipe-page-description-text {
+    color: orange;
+    background-color: purple;
+}
